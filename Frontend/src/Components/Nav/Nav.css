@@ -1,0 +1,22 @@
+.Nav_List_item {
+   
+
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    padding: 2px;
+    
+    
+}
+.Nav_Container{
+    background-color: rgb(209, 205, 253);
+}
+.Nav_List_item a{
+    text-decoration: none;
+    color: rgb(69, 59, 181);
+    font-size: 17px;
+    
+}
+.Nav_List_item a :hover{
+    transform: scale();
+}

@@ -1,0 +1,24 @@
+.Signup_Container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    margin-top: 50px;
+}
+.Signup_inputs{
+    display: block;
+width: 25em;
+height: 20px;
+margin: 5px;
+text-align: center;
+}
+.Signup_Submit_Button{
+    padding: 5px;
+    width: 10em;
+    border-radius: 5px;
+    margin: 15px;
+    border: 2px solid rgb(69, 59, 181);
+    cursor: pointer;
+}
